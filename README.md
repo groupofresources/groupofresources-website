@@ -1,5 +1,3 @@
-# groupofresources-website
-Official website project of Group of Resources – A digital agency offering web development, SEO, and branding services.
 # 🌐 Group of Resources – Official Website
 
 Welcome to the official GitHub repository of [Group of Resources](https://gorcorp.co) – a full-service digital agency delivering modern websites, SEO strategies, and brand identity solutions.
